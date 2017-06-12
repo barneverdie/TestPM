@@ -1,0 +1,25 @@
+<resources>
+    <integer name="EXITLOOP1">0</integer>
+    <string name="app_name">MusicPlayer</string>
+    <string name="prev">&#8678;</string>
+    <string name="next">&#8680;</string>
+    <string name="play">&#9658;</string>
+    <string name="volumeup">&#9660;</string>
+    <string name="volumedown">&#9650;</string>
+    <string name="addsong">+</string>
+    <string name="addall">&#9836;</string>
+    <string name="enter">查</string>
+    <string name="playlist">列表</string>
+    <string name="clearall">&#10006;</string>
+    <string name="moveup">&#8657;</string>
+    <string name="movedown">&#8659;</string>
+    <string name="save">&#10030;</string>
+    <string name="stop">&#9635;</string>
+    <string name="mylovesong">&#10084;</string>
+    <string name="defaultdir">__________</string>
+    <string name="saveall">SAVE</string>
+    <string name="showtitle">Show</string>
+    <string name="hidetitle">Hide</string>
+    <string name="setting">Setting</string>
+
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="EXITLOOP">0</integer>
+    <integer name="STARTSONG">1</integer>
+    <integer name="DEFAULTVOLUME">2</integer>
+    <integer name="RANDOM">3</integer>
+    <integer name="SLEEPMODE">4</integer>
+</resources>
