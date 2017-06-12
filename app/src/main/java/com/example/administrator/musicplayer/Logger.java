@@ -15,6 +15,7 @@ import java.text.SimpleDateFormat;
 public class Logger {
 
     public static boolean isSdCardExist() {
+
         return Environment.getExternalStorageState().equals(
                 Environment.MEDIA_MOUNTED);
     }
