@@ -377,6 +377,8 @@ public class FileListFragment extends Fragment {
             {
 
                 if(nSongSelected==0) return;
+                if(ltSongs.size()==0)
+                    return;
 
                 Song songPrev=new Song(ltSongs.get(nSongSelected-1));
                 Song songSelected=new Song(ltSongs.get(nSongSelected));
@@ -403,6 +405,8 @@ public class FileListFragment extends Fragment {
             {
 
                 if(nSongSelected==ltSongs.size()) return;
+                if(ltSongs.size()==0)
+                    return;
 
                 Song songNext=new Song(ltSongs.get(nSongSelected+1));
                 Song songSelected=new Song(ltSongs.get(nSongSelected));
