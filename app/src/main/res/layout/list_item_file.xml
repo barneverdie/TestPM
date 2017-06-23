@@ -5,8 +5,8 @@
                 android:orientation="horizontal"
                 xmlns:tools="http://schemas.android.com/tools">
     <ImageView
-        android:layout_width="40px"
-        android:layout_height="40px"
+        android:layout_width="45px"
+        android:layout_height="45px"
         android:id="@+id/list_item_file_image_view"/>
 
     <TextView
